@@ -17,6 +17,11 @@ There is no gui. you can input a 'x y' to play with AI.
 
 The GUI is written with swing, just click the mouse to play with AI.
 
+##How to use it
+There are binary files in [bin](/bin) folder.
+
+You can download them and play with the little program.
+
 ##Game Theory
 
 1 Central First
